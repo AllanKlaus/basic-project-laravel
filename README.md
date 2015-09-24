@@ -10,6 +10,8 @@ A basic project on laravel with the following components installed.
 
 > **Nota:** All installed by composer.
 
+# Projeto básico laravel
+
 Projeto laravel com componentes básicos
 
 A basic project on laravel with the following components installed.
