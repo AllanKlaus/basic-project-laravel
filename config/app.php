@@ -137,9 +137,13 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
-        \Illuminate\Html\HtmlServiceProvider::class,
+        /*
+         *  ComponentsServiceProvider
+         */
+        Illuminate\Html\HtmlServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
         Bestmomo\Scafold\ScafoldServiceProvider::class,
+        Prettus\Repository\Providers\RepositoryServiceProvider::class,
 
         /*
          * Application Service Providers...
@@ -147,7 +151,12 @@ return [
         App\Providers\AppServiceProvider::class,
         App\Providers\AuthServiceProvider::class,
         App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class
+        App\Providers\RouteServiceProvider::class,
+
+        /*
+         * MyServiceProvider
+         */
+        App\Providers\RepositoryServiceProvicer::class
     ],
 
     /*
