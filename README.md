@@ -8,6 +8,9 @@ A basic project on laravel with the following components installed.
 - `intervention/image - Edit image Component`
 - `bestmomo/scafold - Basic template Component`
 - `prettus/l5-repository - Repository Component`
+- `barryvdh/laravel-cors - CORS Component`
+- `league/fractal - Fractal Component`
+- `lucadegasperi/oauth2-server-laravel - OAuth2 Component`
 
 > **Nota:** All installed by composer.
 
@@ -21,5 +24,8 @@ A basic project on laravel with the following components installed.
 - `intervention/image - Componente edição de imagens`
 - `bestmomo/scafold - Componente template básico`
 - `prettus/l5-repository - Componente de Repository`
+- `barryvdh/laravel-cors - Componente CORS`
+- `league/fractal - Componente Fractal`
+- `lucadegasperi/oauth2-server-laravel - Componente OAuth2`
 
 > **Nota:** Todos instalados via composer.

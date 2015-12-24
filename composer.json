@@ -13,7 +13,10 @@
         "intervention/image": "^2.3",
         "maatwebsite/excel": "~2.0.0",
         "bestmomo/scafold": "dev-master",
-        "prettus/l5-repository": "dev-master"
+        "prettus/l5-repository": "dev-master",
+        "barryvdh/laravel-cors": "0.7.x",
+        "league/fractal": "^0.13.0",
+        "lucadegasperi/oauth2-server-laravel": "^5.1"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
